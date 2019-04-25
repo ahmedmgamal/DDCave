@@ -7,6 +7,9 @@ Cave helps you track **Team**, **Application**, **Endpoint**, **File** level **m
 enabling you to have a through understanding from project Ideation to product
 Release.
 
+## Test Quality 
+[![Coverage Status](https://coveralls.io/repos/github/ahmedmgamal/DDCave/badge.svg?branch=master)](https://coveralls.io/github/ahmedmgamal/DDCave?branch=master)
+
 ## Getting Started
 
 This instructions will get you a copy of the project up and running on
