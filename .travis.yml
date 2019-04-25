@@ -1,2 +1,2 @@
 language: python
-script: python3 my_app.py || python my_app.py
+script: python3 test/test.py || python test/test.py
