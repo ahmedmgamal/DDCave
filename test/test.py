@@ -1,6 +1,26 @@
 import unittest
 
+# coding=utf-8
+from unittest import TestCase
 
+def exsum(a, b):
+    # A comment of a exsum
+    return a + b
+
+
+def exdiff(a, b):
+    return a - b
+
+
+
+class ExTestCase(TestCase):
+    def test_exsum(self):
+        self.assertEqual(exsum(3,2), 5)
+
+
+        
+        
+        
 class TestSum(unittest.TestCase):
 
     def test_sum(self):
